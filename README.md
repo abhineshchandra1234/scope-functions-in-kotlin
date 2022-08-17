@@ -2,7 +2,7 @@
 # Scope functions in kotlin
 
 This project tells about the scope function in kotlin. 
-After going through this repo you will clear about when to use
+After going through this repo you will be clear about when to use
 which scope functions and what are the differences between them.
 
 
