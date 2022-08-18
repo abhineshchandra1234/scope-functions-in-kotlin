@@ -21,6 +21,6 @@ which scope functions and what are the differences between them.
 ![Scope function](https://github.com/abhineshchandra1234/scope-functions-in-kotlin/blob/main/scope%20functions.png)
 
 ## Refrences
-- ![https://developer.android.com/](https://developer.android.com/)
-- ![https://youtu.be/MHxGv4K6BsM](https://youtu.be/MHxGv4K6BsM)
+- [https://developer.android.com/](https://developer.android.com/)
+- [https://youtu.be/MHxGv4K6BsM](https://youtu.be/MHxGv4K6BsM)
 
