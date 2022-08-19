@@ -23,4 +23,5 @@ which scope functions and what are the differences between them.
 ## Refrences
 - [https://developer.android.com/](https://developer.android.com/)
 - [https://youtu.be/MHxGv4K6BsM](https://youtu.be/MHxGv4K6BsM)
+- [https://medium.com/@abhineshchandra1234/scope-functions-in-kotlin-6a9b592cf726](https://medium.com/@abhineshchandra1234/scope-functions-in-kotlin-6a9b592cf726)
 
